@@ -1,7 +1,6 @@
 Daniel Issaq
 
-# Quantum-Code-
-CyberSec Impact and my take on Quantum Coding (no code)
+# Quantum Code
 
 1. Code Without Running It:
 Imagine writing an algorithm and never executing it but it “exists” in a superposition of all possible outputs. You only pick the output you want by observation. The act of observing collapses the algorithm to your intended solution.
